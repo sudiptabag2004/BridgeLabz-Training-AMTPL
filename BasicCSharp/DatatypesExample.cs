@@ -14,7 +14,7 @@ namespace BasicCSharp
             float percentage = 85.6f;
             double pi = 3.14159;
 
-            // Decimal (for money)
+            // Decimal
             decimal bankBalance = 9999.50m;
 
             // Character & String
@@ -24,7 +24,6 @@ namespace BasicCSharp
             // Boolean
             bool isStudent = true;
 
-            // Output
             Console.WriteLine("Name: " + name);
             Console.WriteLine("Age: " + age);
             Console.WriteLine("Grade: " + grade);

@@ -1,9 +1,12 @@
-﻿using BasicCSharp;
+using BasicCSharp;
 
-class Program
+namespace BridgeLabzAPP
 {
-    static void Main()
+    class Program
     {
-        Datatypes.Run();
+        static void Main(string[] args)
+        {
+            Datatypes.Run();
+        }
     }
 }
