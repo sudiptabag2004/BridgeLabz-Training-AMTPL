@@ -1,0 +1,15 @@
+/Users/sudiptabag/Projects/BridgeLabzApp/bin/Debug/net7.0/BridgeLabzApp
+/Users/sudiptabag/Projects/BridgeLabzApp/bin/Debug/net7.0/BridgeLabzApp.deps.json
+/Users/sudiptabag/Projects/BridgeLabzApp/bin/Debug/net7.0/BridgeLabzApp.runtimeconfig.json
+/Users/sudiptabag/Projects/BridgeLabzApp/bin/Debug/net7.0/BridgeLabzApp.dll
+/Users/sudiptabag/Projects/BridgeLabzApp/bin/Debug/net7.0/BridgeLabzApp.pdb
+/Users/sudiptabag/Projects/BridgeLabzApp/obj/Debug/net7.0/BridgeLabzApp.csproj.AssemblyReference.cache
+/Users/sudiptabag/Projects/BridgeLabzApp/obj/Debug/net7.0/BridgeLabzApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudiptabag/Projects/BridgeLabzApp/obj/Debug/net7.0/BridgeLabzApp.AssemblyInfoInputs.cache
+/Users/sudiptabag/Projects/BridgeLabzApp/obj/Debug/net7.0/BridgeLabzApp.AssemblyInfo.cs
+/Users/sudiptabag/Projects/BridgeLabzApp/obj/Debug/net7.0/BridgeLabzApp.csproj.CoreCompileInputs.cache
+/Users/sudiptabag/Projects/BridgeLabzApp/obj/Debug/net7.0/BridgeLabzApp.dll
+/Users/sudiptabag/Projects/BridgeLabzApp/obj/Debug/net7.0/refint/BridgeLabzApp.dll
+/Users/sudiptabag/Projects/BridgeLabzApp/obj/Debug/net7.0/BridgeLabzApp.pdb
+/Users/sudiptabag/Projects/BridgeLabzApp/obj/Debug/net7.0/BridgeLabzApp.genruntimeconfig.cache
+/Users/sudiptabag/Projects/BridgeLabzApp/obj/Debug/net7.0/ref/BridgeLabzApp.dll
