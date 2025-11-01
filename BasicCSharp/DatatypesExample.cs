@@ -6,22 +6,22 @@ namespace BasicCSharp
     {
         public static void Run()
         {
-            // Integer Types
+            
             int age = 20;
             long population = 1400000000;
 
-            // Floating Types
+            
             float percentage = 85.6f;
             double pi = 3.14159;
 
-            // Decimal
+           
             decimal bankBalance = 9999.50m;
 
-            // Character & String
+            
             char grade = 'A';
             string name = "Sudipta";
 
-            // Boolean
+            
             bool isStudent = true;
 
             Console.WriteLine("Name: " + name);
