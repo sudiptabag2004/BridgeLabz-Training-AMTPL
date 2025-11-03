@@ -6,7 +6,7 @@ namespace BridgeLabzApp
     {
         public static void Main()
         {
-            Reverse_string.Run();
+            ReverseArray.Run();
         }
     }
 }
