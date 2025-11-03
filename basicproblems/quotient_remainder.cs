@@ -22,9 +22,6 @@ namespace basicproblems
             Console.WriteLine($"The remainder is {l}");
 
 
-
-
-
         }
 
     }
