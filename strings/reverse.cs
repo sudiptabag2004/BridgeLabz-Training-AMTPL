@@ -1,6 +1,6 @@
 using System;
 
-namespace arrays
+namespace strings
 {
     class Reverse_string
     {
