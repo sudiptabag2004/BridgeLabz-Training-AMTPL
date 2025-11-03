@@ -12,4 +12,4 @@
 /Users/sudiptabag/Projects/BridgeLabzApp/obj/Debug/net7.0/BridgeLabzApp.pdb
 /Users/sudiptabag/Projects/BridgeLabzApp/obj/Debug/net7.0/BridgeLabzApp.genruntimeconfig.cache
 /Users/sudiptabag/Projects/BridgeLabzApp/obj/Debug/net7.0/ref/BridgeLabzApp.dll
-/Users/sudiptabag/Projects/BridgeLabzApp/obj/Debug/net7.0/BridgeLabzApp.sourcelink.json
+/Users/sudiptabag/Projects/BridgeLabzApp/obj/Debug/net7.0/BridgeLabzApp.csproj.AssemblyReference.cache

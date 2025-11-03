@@ -6,7 +6,7 @@ namespace BridgeLabzAPP
     {
         static void Main(string[] args)
         {
-            Datatypes.Run();
+            Operators.Run();
         }
-    }
+    } 
 }
