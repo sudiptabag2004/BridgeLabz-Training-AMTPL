@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sudiptabag/Projects/BridgeLabzApp/BridgeLabzApp.csproj",
+      "projectUniqueName": "/Users/sudiptabag/RiderProjects/BridgeLabzApp/BridgeLabzApp.csproj",
       "projectName": "BridgeLabzApp",
-      "projectPath": "/Users/sudiptabag/Projects/BridgeLabzApp/BridgeLabzApp.csproj",
+      "projectPath": "/Users/sudiptabag/RiderProjects/BridgeLabzApp/BridgeLabzApp.csproj",
       "packagesPath": "/Users/sudiptabag/.nuget/packages/",
-      "outputPath": "/Users/sudiptabag/Projects/BridgeLabzApp/obj/",
+      "outputPath": "/Users/sudiptabag/RiderProjects/BridgeLabzApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sudiptabag/.nuget/NuGet/NuGet.Config"
