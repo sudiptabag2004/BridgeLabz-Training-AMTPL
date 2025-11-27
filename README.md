@@ -1,18 +1,18 @@
 # BridgeLabz Training - AMTPL
 
+
 Repository Structure
 ====================
 
-main → Stable production-ready code  
-dev → Active development  
+- **main** → Stable production-ready code  
+- **dev** → Active development  
 
-feature/
-│
-├── basiccsharp     → C# fundamentals (datatypes, loops, strings, arrays)
-├── oops            → OOP concepts (inheritance, polymorphism, etc.)
-├── advanceoops     → Advanced OOP + problem solving
-├── exceptions      → Exception handling + custom exceptions
-└── collections     → Collections + HashSet + Dictionary + DSA
+### Feature Branches
+- **feature/basiccsharp** → C# fundamentals (datatypes, loops, strings, arrays)
+- **feature/oops** → OOP concepts (inheritance, polymorphism, encapsulation, etc.)
+- **feature/advanceoops** → Advanced OOP + problem solving
+- **feature/exceptions** → Exception handling + custom exceptions
+- **feature/collections** → Collections + HashSet + Dictionary + DSA
 
 ---
 
