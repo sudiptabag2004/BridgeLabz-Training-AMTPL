@@ -14,7 +14,6 @@ feature/
 ├── exceptions      → Exception handling + custom exceptions
 └── collections     → Collections + HashSet + Dictionary + DSA
 
-
 ---
 
 ## Branch: `feature/collections`
