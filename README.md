@@ -9,9 +9,24 @@
 **feature/advanceoops** – Advanced OOP and problem-solving tasks.  
 **feature/exceptions** – Exception handling and custom exceptions.
 
+## Branch: `feature/set_contains_duplicate`
+
+| Date (DD-MM-YYYY) | Commit Message | Description |
+|--------------------|----------------|-------------|
+| **27-11-2025** | `added anagram check` | Implemented logic for checking if two strings are anagrams |
+| **27-11-2025** | `added twosum` | Added Two Sum solution using dictionary |
+| **27-11-2025** | `remove duplicate from sorted list` | Removed duplicates from a sorted list implementation |
+| **20-11-2025** | `added reversed_array` | Added program to reverse an array |
+| **20-11-2025** | `added stack` | Implemented stack operations |
+| **20-11-2025** | `added hashset` | Added HashSet usage examples |
+| **20-11-2025** | `added dictionary` | Added Dictionary usage and examples |
+| **20-11-2025** | `added list` | Added List collection and operations |
 
 
-## 🧱 Branch: `feature/basiccsharp`
+---
+
+
+##  Branch: `feature/basiccsharp`
 
 | Date (DD-MM-YYYY) | Commit Message | Description |
 |--------------------|----------------|--------------|
@@ -25,7 +40,7 @@
 
 ---
 
-## 💡 Branch: `feature/basicproblems`
+##  Branch: `feature/basicproblems`
 
 | Date (DD-MM-YYYY) | Commit Message | Description |
 |--------------------|----------------|--------------|
@@ -42,7 +57,7 @@
 
 ---
 
-## 🧵 Branch: `feature/strings`
+##  Branch: `feature/strings`
 
 | Date (DD-MM-YYYY) | Commit Message | Description |
 |--------------------|----------------|--------------|
@@ -54,7 +69,7 @@
 
 ---
 
-## 📚 Branch: `feature/arrays`
+##  Branch: `feature/arrays`
 
 | Date (DD-MM-YYYY) | Commit Message | Description |
 |--------------------|----------------|--------------|
@@ -66,7 +81,7 @@
 
 ---
 
-## 🧩 Branch: `dev`
+##  Branch: `dev`
 
 | Date (DD-MM-YYYY) | Commit Message | Description |
 |--------------------|----------------|--------------|
@@ -77,18 +92,6 @@
 
 ---
 
-## 🌿 Branch Summary
-
-| Branch | Purpose |
-|--------|----------|
-| `main` | Finalized and merged tested code |
-| `dev` | Development base for project setup |
-| `feature/basiccsharp` | Basic syntax and data type programs |
-| `feature/basicproblems` | Logical and beginner problem-solving programs |
-| `feature/strings` | String-based operations and problems |
-| `feature/arrays` | Array programs and manipulations |
-
----
 
 **👨‍💻 Author:** Sudipta Bag  
 🗓️ *Last Updated:* **Nov 4, 2025**  
