@@ -8,13 +8,14 @@ dev → Active development
 
 feature/
 │
-├── basiccsharp   → C# fundamentals (datatype, loops, strings, arrays)
-├── oops          → OOP concepts (inheritance, polymorphism, etc.)
-├── advanceoops   → Advanced OOP + problem solving
-├── exceptions    → Exception handling + custom exceptions
-└── collections   → Collections + HashSet + Dictionary + DSA
+├── basiccsharp     → C# fundamentals (datatypes, loops, strings, arrays)
+├── oops            → OOP concepts (inheritance, polymorphism, etc.)
+├── advanceoops     → Advanced OOP + problem solving
+├── exceptions      → Exception handling + custom exceptions
+└── collections     → Collections + HashSet + Dictionary + DSA
 
 
+---
 
 ## Branch: `feature/collections`
 
@@ -29,11 +30,9 @@ feature/
 | **20-11-2025** | `added dictionary` | Added Dictionary usage and examples |
 | **20-11-2025** | `added list` | Added List collection and operations |
 
-
 ---
 
-
-##  Branch: `feature/basiccsharp`
+## Branch: `feature/basiccsharp`
 
 | Date (DD-MM-YYYY) | Commit Message | Description |
 |--------------------|----------------|--------------|
@@ -47,7 +46,7 @@ feature/
 
 ---
 
-##  Branch: `feature/basicproblems`
+## Branch: `feature/basicproblems`
 
 | Date (DD-MM-YYYY) | Commit Message | Description |
 |--------------------|----------------|--------------|
@@ -64,7 +63,7 @@ feature/
 
 ---
 
-##  Branch: `feature/strings`
+## Branch: `feature/strings`
 
 | Date (DD-MM-YYYY) | Commit Message | Description |
 |--------------------|----------------|--------------|
@@ -76,7 +75,7 @@ feature/
 
 ---
 
-##  Branch: `feature/arrays`
+## Branch: `feature/arrays`
 
 | Date (DD-MM-YYYY) | Commit Message | Description |
 |--------------------|----------------|--------------|
@@ -88,7 +87,7 @@ feature/
 
 ---
 
-##  Branch: `dev`
+## Branch: `dev`
 
 | Date (DD-MM-YYYY) | Commit Message | Description |
 |--------------------|----------------|--------------|
@@ -98,7 +97,6 @@ feature/
 | **01-11-2025** | `Removed old OOPS file before creating directory structure` | Cleaned and reorganized OOP structure |
 
 ---
-
 
 **👨‍💻 Author:** Sudipta Bag  
 🗓️ *Last Updated:* **Nov 4, 2025**  
