@@ -12,7 +12,7 @@ Repository Structure
 - **feature/oops** → OOP concepts (inheritance, polymorphism, encapsulation, etc.)
 - **feature/advanceoops** → Advanced OOP + problem solving
 - **feature/exceptions** → Exception handling + custom exceptions
-- **feature/collections** → Collections + HashSet + Dictionary + DSA
+- **feature/collections** → Collections concepts and problems
 
 ---
 
