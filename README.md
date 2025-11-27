@@ -8,7 +8,7 @@
 **feature/oops** – OOP concepts: classes, inheritance, polymorphism, encapsulation, abstraction.  
 **feature/advanceoops** – Advanced OOP and problem-solving tasks.  
 **feature/exceptions** – Exception handling and custom exceptions.
-**feature/collections** – Collections problems using Hashset, Dictionary, DSA etc...
+**feature/collections** – Collections problems using Hashset, Dictionary, DSA etc.
 
 ## Branch: `feature/collections`
 
