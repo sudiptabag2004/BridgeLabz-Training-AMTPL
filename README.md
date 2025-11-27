@@ -20,7 +20,8 @@ Repository Structure
 
 | Date (DD-MM-YYYY) | Commit Message | Description |
 |--------------------|----------------|-------------|
-| **27-11-2025** | `added anagram check` | Implemented logic for checking if two strings are anagrams |
+| **27-11-2025** | `Intersection of two strings` | Return an array of their intersection |
+| **27-11-2025** | `added anagram check` | Implemented logic for checking if two strings are anagrams |    
 | **27-11-2025** | `added twosum` | Added Two Sum solution using dictionary |
 | **27-11-2025** | `remove duplicate from sorted list` | Removed duplicates from a sorted list implementation |
 | **20-11-2025** | `added reversed_array` | Added program to reverse an array |
