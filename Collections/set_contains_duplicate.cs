@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution2 {
     public bool ContainsDuplicate(int[] nums) {
         
         HashSet<int> newhas = new HashSet<int>();

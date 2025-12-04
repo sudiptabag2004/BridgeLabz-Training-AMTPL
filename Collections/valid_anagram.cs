@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution1 {
     public bool IsAnagram(string s, string t) {
 
         Dictionary<char,int> db = new Dictionary<char,int>();

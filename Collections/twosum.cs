@@ -1,5 +1,5 @@
 
-public class Solution {
+public class Solution3 {
     public int[] TwoSum(int[] nums, int target) {
 
         Dictionary<int,int> db = new Dictionary<int,int>();
